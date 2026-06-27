@@ -21,7 +21,7 @@ the **system layer**. That is the function of an agent control tower's server-si
 
 ## Design
 
-Two models (`gpt-4o-mini`, `claude-haiku-4-5`) each run 8 workloads of K verifiable
+Four models in two tiers (small: `gpt-4o-mini`, `claude-haiku-4-5`; frontier: `gpt-4o`, `claude-sonnet-4-6`) each run 8 workloads of K verifiable
 micro-tasks (arithmetic, string ops, multi-step), every answer checked programmatically, under
 two conditions:
 - **baseline**: all K tasks in one prompt, "complete all", plus a final self-report of how many

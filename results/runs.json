@@ -7,7 +7,149 @@
     "answered": 28,
     "correct": 27,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
@@ -17,7 +159,149 @@
     "answered": 28,
     "correct": 26,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
@@ -25,9 +309,151 @@
     "wl": 2,
     "k": 28,
     "answered": 28,
-    "correct": 24,
+    "correct": 25,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
@@ -37,7 +463,149 @@
     "answered": 28,
     "correct": 24,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
@@ -45,9 +613,151 @@
     "wl": 4,
     "k": 28,
     "answered": 28,
-    "correct": 24,
+    "correct": 23,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
@@ -55,9 +765,151 @@
     "wl": 5,
     "k": 28,
     "answered": 28,
-    "correct": 19,
+    "correct": 23,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
@@ -67,7 +919,149 @@
     "answered": 28,
     "correct": 22,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
@@ -77,7 +1071,149 @@
     "answered": 28,
     "correct": 23,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
@@ -85,9 +1221,151 @@
     "wl": 0,
     "k": 28,
     "answered": 28,
-    "correct": 25,
+    "correct": 27,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
@@ -95,209 +1373,5623 @@
     "wl": 1,
     "k": 28,
     "answered": 28,
-    "correct": 26,
+    "correct": 27,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
     "cond": "protocol",
     "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 4,
     "k": 28,
     "answered": 28,
     "correct": 23,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "gpt-4o-mini",
-    "cond": "protocol",
-    "wl": 3,
-    "k": 28,
-    "answered": 28,
-    "correct": 26,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "gpt-4o-mini",
-    "cond": "protocol",
-    "wl": 4,
-    "k": 28,
-    "answered": 28,
-    "correct": 24,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "gpt-4o-mini",
-    "cond": "protocol",
-    "wl": 5,
-    "k": 28,
-    "answered": 28,
-    "correct": 20,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "gpt-4o-mini",
-    "cond": "protocol",
-    "wl": 6,
-    "k": 28,
-    "answered": 28,
-    "correct": 22,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "gpt-4o-mini",
-    "cond": "protocol",
-    "wl": 7,
-    "k": 28,
-    "answered": 28,
-    "correct": 24,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "baseline",
-    "wl": 0,
-    "k": 28,
-    "answered": 28,
-    "correct": 26,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "baseline",
-    "wl": 1,
-    "k": 28,
-    "answered": 28,
-    "correct": 27,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "baseline",
-    "wl": 2,
-    "k": 28,
-    "answered": 28,
-    "correct": 26,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "baseline",
-    "wl": 3,
-    "k": 28,
-    "answered": 28,
-    "correct": 25,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "baseline",
-    "wl": 4,
-    "k": 28,
-    "answered": 28,
-    "correct": 25,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "baseline",
-    "wl": 5,
-    "k": 28,
-    "answered": 28,
-    "correct": 22,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "baseline",
-    "wl": 6,
-    "k": 28,
-    "answered": 28,
-    "correct": 24,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "baseline",
-    "wl": 7,
-    "k": 28,
-    "answered": 28,
-    "correct": 27,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "protocol",
-    "wl": 0,
-    "k": 28,
-    "answered": 28,
-    "correct": 27,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "protocol",
-    "wl": 1,
-    "k": 28,
-    "answered": 28,
-    "correct": 26,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "protocol",
-    "wl": 2,
-    "k": 28,
-    "answered": 28,
-    "correct": 26,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "protocol",
-    "wl": 3,
-    "k": 28,
-    "answered": 28,
-    "correct": 26,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
-    "cond": "protocol",
-    "wl": 4,
-    "k": 28,
-    "answered": 28,
-    "correct": 25,
-    "omitted": 0,
-    "self": 28
-  },
-  {
-    "model": "claude-haiku-4-5-20251001",
     "cond": "protocol",
     "wl": 5,
     "k": 28,
     "answered": 28,
     "correct": 23,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 6,
+    "k": 28,
+    "answered": 28,
+    "correct": 21,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 7,
+    "k": 28,
+    "answered": 28,
+    "correct": 23,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "baseline",
+    "wl": 0,
+    "k": 28,
+    "answered": 28,
+    "correct": 28,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "baseline",
+    "wl": 1,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "baseline",
+    "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 28,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "baseline",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "baseline",
+    "wl": 4,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "baseline",
+    "wl": 5,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "baseline",
+    "wl": 6,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "baseline",
+    "wl": 7,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "protocol",
+    "wl": 0,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "protocol",
+    "wl": 1,
+    "k": 28,
+    "answered": 28,
+    "correct": 28,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "protocol",
+    "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 28,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "protocol",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "protocol",
+    "wl": 4,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "protocol",
+    "wl": 5,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "protocol",
+    "wl": 6,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "gpt-4o",
+    "cond": "protocol",
+    "wl": 7,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 0,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 1,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 4,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 5,
+    "k": 28,
+    "answered": 28,
+    "correct": 23,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 6,
+    "k": 28,
+    "answered": 28,
+    "correct": 23,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 7,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 0,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 1,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 23,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 4,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 5,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "claude-haiku-4-5-20251001",
@@ -305,9 +6997,151 @@
     "wl": 6,
     "k": 28,
     "answered": 28,
-    "correct": 25,
+    "correct": 24,
     "omitted": 0,
-    "self": 28
+    "self": 28,
+    "pertask": [
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
   },
   {
     "model": "claude-haiku-4-5-20251001",
@@ -315,8 +7149,2582 @@
     "wl": 7,
     "k": 28,
     "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "baseline",
+    "wl": 0,
+    "k": 28,
+    "answered": 28,
+    "correct": 28,
+    "omitted": 0,
+    "self": 26,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "baseline",
+    "wl": 1,
+    "k": 28,
+    "answered": 28,
     "correct": 27,
     "omitted": 0,
-    "self": 28
+    "self": 24,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "baseline",
+    "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 27,
+    "pertask": [
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "baseline",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 26,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "baseline",
+    "wl": 4,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 26,
+    "pertask": [
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "baseline",
+    "wl": 5,
+    "k": 28,
+    "answered": 28,
+    "correct": 28,
+    "omitted": 0,
+    "self": 26,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "baseline",
+    "wl": 6,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 27,
+    "pertask": [
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "baseline",
+    "wl": 7,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 26,
+    "pertask": [
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "protocol",
+    "wl": 0,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "protocol",
+    "wl": 1,
+    "k": 28,
+    "answered": 28,
+    "correct": 28,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "protocol",
+    "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "vowels",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "protocol",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "protocol",
+    "wl": 4,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "sub",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "protocol",
+    "wl": 5,
+    "k": 28,
+    "answered": 28,
+    "correct": 28,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "protocol",
+    "wl": 6,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "cond": "protocol",
+    "wl": 7,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28,
+    "pertask": [
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "vowels",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "countL",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "km",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cm",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "reverse",
+        "correct": 0,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "length",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "chain",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "last",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "ma",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "add",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "mul",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "first",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "triple",
+        "correct": 1,
+        "answered": 1
+      },
+      {
+        "type": "cntword",
+        "correct": 1,
+        "answered": 1
+      }
+    ]
   }
 ]

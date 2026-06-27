@@ -14,8 +14,8 @@ import json, re, random
 from pathlib import Path
 from .llm import chat
 
-R = Path(__file__).resolve().parent / "results"; R.mkdir(exist_ok=True)
-MODELS = ["gpt-4o-mini", "claude-haiku-4-5-20251001"]
+R = Path(__file__).resolve().parent.parent / "results"; R.mkdir(exist_ok=True)
+MODELS = ["gpt-4o-mini", "gpt-4o", "claude-haiku-4-5-20251001", "claude-sonnet-4-6"]
 N_WORK, K = 8, 28           # 14 workloads x 12 tasks = 168 tasks per cell
 WORDS = ["optimization","kimbiseo","calendar","protocol","schedule","retrieval",
          "workflow","reminder","dashboard","assistant","priority","control",
@@ -23,30 +23,31 @@ WORDS = ["optimization","kimbiseo","calendar","protocol","schedule","retrieval",
 
 def gen_task(rng):
     t = rng.choice(["mul","add","sub","km","cm","reverse","length","countL","vowels","last","first","triple","ma","chain","cntword"])
+    _T = t
     w = rng.choice(WORDS)
-    if t=="mul": a,b=rng.randint(11,29),rng.randint(11,29); return (f"multiply {a} by {b}", str(a*b))
-    if t=="add": a,b=rng.randint(100,999),rng.randint(100,999); return (f"add {a} and {b}", str(a+b))
-    if t=="sub": a,b=rng.randint(500,999),rng.randint(100,499); return (f"subtract {b} from {a}", str(a-b))
-    if t=="km":  n=rng.randint(2,9); return (f"convert {n} kilometers to meters (number only)", str(n*1000))
-    if t=="cm":  n=rng.randint(2,9); return (f"convert {n} meters to centimeters (number only)", str(n*100))
-    if t=="reverse": return (f"reverse the word '{w}' (lowercase)", w[::-1])
-    if t=="length":  return (f"how many letters are in the word '{w}' (number only)", str(len(w)))
+    if t=="mul": a,b=rng.randint(11,29),rng.randint(11,29); return (_T, f"multiply {a} by {b}", str(a*b))
+    if t=="add": a,b=rng.randint(100,999),rng.randint(100,999); return (_T, f"add {a} and {b}", str(a+b))
+    if t=="sub": a,b=rng.randint(500,999),rng.randint(100,499); return (_T, f"subtract {b} from {a}", str(a-b))
+    if t=="km":  n=rng.randint(2,9); return (_T, f"convert {n} kilometers to meters (number only)", str(n*1000))
+    if t=="cm":  n=rng.randint(2,9); return (_T, f"convert {n} meters to centimeters (number only)", str(n*100))
+    if t=="reverse": return (_T, f"reverse the word '{w}' (lowercase)", w[::-1])
+    if t=="length":  return (_T, f"how many letters are in the word '{w}' (number only)", str(len(w)))
     if t=="countL":
-        c=rng.choice(list(set(w))); return (f"how many times does the letter '{c}' appear in '{w}' (number only)", str(w.count(c)))
-    if t=="vowels":  return (f"how many vowels (a,e,i,o,u) are in '{w}' (number only)", str(sum(w.count(v) for v in "aeiou")))
-    if t=="last":    return (f"what is the last letter of '{w}'", w[-1])
-    if t=="first":   return (f"what is the first letter of '{w}'", w[0])
-    if t=="triple":  n=rng.randint(20,99); return (f"triple the number {n} (number only)", str(n*3))
-    if t=="ma":  a,b,c=rng.randint(3,9),rng.randint(3,9),rng.randint(10,40); return (f"multiply {a} by {b} then add {c} (number only)", str(a*b+c))
-    if t=="chain": a,b=rng.randint(20,60),rng.randint(2,5); return (f"take {a}, subtract 7, then multiply by {b} (number only)", str((a-7)*b))
-    if t=="cntword": import re as _re; return (f"count the letters that are NOT vowels in '{w}' (number only)", str(sum(1 for ch in w if ch not in 'aeiou')))
+        c=rng.choice(list(set(w))); return (_T, f"how many times does the letter '{c}' appear in '{w}' (number only)", str(w.count(c)))
+    if t=="vowels":  return (_T, f"how many vowels (a,e,i,o,u) are in '{w}' (number only)", str(sum(w.count(v) for v in "aeiou")))
+    if t=="last":    return (_T, f"what is the last letter of '{w}'", w[-1])
+    if t=="first":   return (_T, f"what is the first letter of '{w}'", w[0])
+    if t=="triple":  n=rng.randint(20,99); return (_T, f"triple the number {n} (number only)", str(n*3))
+    if t=="ma":  a,b,c=rng.randint(3,9),rng.randint(3,9),rng.randint(10,40); return (_T, f"multiply {a} by {b} then add {c} (number only)", str(a*b+c))
+    if t=="chain": a,b=rng.randint(20,60),rng.randint(2,5); return (_T, f"take {a}, subtract 7, then multiply by {b} (number only)", str((a-7)*b))
+    if t=="cntword": import re as _re; return (_T, f"count the letters that are NOT vowels in '{w}' (number only)", str(sum(1 for ch in w if ch not in 'aeiou')))
 
 def gen_workload(seed):
     rng = random.Random(seed)
-    return [(i+1,)+gen_task(rng) for i in range(K)]   # (id, prompt, answer)
+    return [(i+1,)+gen_task(rng) for i in range(K)]   # (id, type, prompt, answer)
 
 def task_block(wl):
-    return "\n".join(f"#{i} {p}" for (i,p,_) in wl)
+    return "\n".join(f"#{i} {p}" for (i,_t,p,_a) in wl)
 
 BASE_SYS = "You complete small tasks accurately and concisely."
 def base_prompt(wl):
@@ -68,7 +69,7 @@ def proto_prompt(wl):
 
 def parse(out):
     ans = {}
-    for m in re.finditer(r"#(\d{1,2})\s*[:\-]\s*([^\n\[]+)", out):
+    for m in re.finditer(r"#(\d{1,2})\s*[:\-]\s*([^\n]+)", out):
         i = int(m.group(1)); v = m.group(2).strip().strip(".").strip()
         if 1 <= i <= K and i not in ans:
             ans[i] = v.lower()
@@ -78,6 +79,15 @@ def parse(out):
 
 def norm(s): return re.sub(r"[^a-z0-9]", "", s.lower())
 
+def is_correct(captured, gold):
+    v = captured.replace("[done]", "").lower()
+    toks = re.findall(r"[a-z0-9]+", v)
+    g = gold.lower()
+    if g.isdigit():
+        nums = [t for t in toks if t.isdigit()]
+        return bool(nums) and nums[-1] == g     # final number = answer (ignores shown work)
+    return g in toks
+
 def run():
     recs = []
     for model in MODELS:
@@ -85,13 +95,16 @@ def run():
             for s in range(N_WORK):
                 wl = gen_workload(1000+s)
                 sysm, usr = (BASE_SYS, base_prompt(wl)) if cond=="baseline" else (PROTO_SYS, proto_prompt(wl))
-                out = chat(model, sysm, usr, temperature=0.0, max_tokens=3000, salt=f"{model}:{cond}:v2:{K}:{s}")
+                out = chat(model, sysm, usr, temperature=0.0, max_tokens=4096, salt=f"{model}:{cond}:v2:{K}:{s}")
                 ans, self_n = parse(out)
-                gold = {i:a for (i,_,a) in wl}
-                correct = sum(1 for i in gold if i in ans and norm(ans[i])==norm(gold[i]))
+                gold = {i:a for (i,_t,_p,a) in wl}
+                gtype = {i:_t for (i,_t,_p,_a) in wl}
+                correct = sum(1 for i in gold if i in ans and is_correct(ans[i], gold[i]))
                 answered = len(ans)
+                pertask=[dict(type=gtype[i], correct=int(i in ans and is_correct(ans[i], gold[i])),
+                              answered=int(i in ans)) for i in gold]
                 recs.append(dict(model=model, cond=cond, wl=s, k=K, answered=answered,
-                                 correct=correct, omitted=K-answered, self=self_n))
+                                 correct=correct, omitted=K-answered, self=self_n, pertask=pertask))
         print(f"  ran {model}")
     (R/"runs.json").write_text(json.dumps(recs, indent=2))
 

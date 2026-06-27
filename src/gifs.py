@@ -20,11 +20,11 @@ def ease(t): return 1-(1-t)**3
 frames=[]; N=16
 for k in range(N+1):
     t=ease(k/N); fig,ax=plt.subplots(figsize=(6.4,4.4))
-    ax.bar([0],[100],0.5,color=RED); ax.bar([1],[88*t],0.5,color=GREEN)
+    ax.bar([0],[100],0.5,color=RED); ax.bar([1],[87*t],0.5,color=GREEN)
     ax.text(0,101,"claimed 100",ha="center",fontsize=10,color=RED,weight="bold")
     if k==N:
-        ax.text(1,89.5,"actual 88",ha="center",fontsize=10,color=GREEN,weight="bold")
-        ax.annotate("12% false 'done'",(0.5,94),ha="center",color=RED,fontsize=11,weight="bold")
+        ax.text(1,89.5,"actual 87",ha="center",fontsize=10,color=GREEN,weight="bold")
+        ax.annotate("13% false (cheap models) 'done'",(0.5,94),ha="center",color=RED,fontsize=11,weight="bold")
     ax.set_xticks([0,1]); ax.set_xticklabels(["self-report","verified"],fontsize=11)
     ax.set_ylim(0,112); ax.set_ylabel("% complete"); ax.set_title("The completion illusion",fontsize=12.5,weight="bold")
     for sp in ("top","right"): ax.spines[sp].set_visible(False)
@@ -70,7 +70,7 @@ def tv(verify):
         ax.text(5,2.0,"TRUST the self-report\n'I completed all of it'",ha="center",va="center",color="white",fontsize=12,weight="bold")
     else:
         ax.add_patch(FancyBboxPatch((2.5,1.2),5,1.6,boxstyle="round,pad=0.02,rounding_size=0.06",fc=GREEN,ec="white"))
-        ax.text(5,2.0,"VERIFY at the system layer\n12% of 'done' was false",ha="center",va="center",color="white",fontsize=12,weight="bold")
+        ax.text(5,2.0,"VERIFY at the system layer\nup to 14% of 'done' false (cheap models)",ha="center",va="center",color="white",fontsize=12,weight="bold")
     fig.tight_layout(); return to_pil(fig)
 save([tv(False),tv(True)],"gif4_trust.gif",[1600,1600])
 print("DONE gifs")
