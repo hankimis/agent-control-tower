@@ -1,0 +1,50 @@
+{
+  "k": 28,
+  "n_workloads": 8,
+  "models": [
+    "gpt-4o-mini",
+    "claude-haiku-4-5-20251001"
+  ],
+  "cells": {
+    "gpt-4o-mini|baseline": {
+      "n_tasks": 224,
+      "omission": 0.0,
+      "accuracy": 0.84375,
+      "attempted_acc": 0.84375,
+      "self_inflation": 4.375
+    },
+    "gpt-4o-mini|protocol": {
+      "n_tasks": 224,
+      "omission": 0.0,
+      "accuracy": 0.8482142857142857,
+      "attempted_acc": 0.8482142857142857,
+      "self_inflation": 4.25
+    },
+    "claude-haiku-4-5-20251001|baseline": {
+      "n_tasks": 224,
+      "omission": 0.0,
+      "accuracy": 0.9017857142857143,
+      "attempted_acc": 0.9017857142857143,
+      "self_inflation": 2.75
+    },
+    "claude-haiku-4-5-20251001|protocol": {
+      "n_tasks": 224,
+      "omission": 0.0,
+      "accuracy": 0.9151785714285714,
+      "attempted_acc": 0.9151785714285714,
+      "self_inflation": 2.375
+    }
+  },
+  "pooled": {
+    "baseline": {
+      "omission": 0.0,
+      "accuracy": 0.8727678571428571,
+      "self_inflation": 3.5625
+    },
+    "protocol": {
+      "omission": 0.0,
+      "accuracy": 0.8816964285714286,
+      "self_inflation": 3.3125
+    }
+  }
+}

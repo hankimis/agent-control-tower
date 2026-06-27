@@ -1,0 +1,322 @@
+[
+  {
+    "model": "gpt-4o-mini",
+    "cond": "baseline",
+    "wl": 0,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "baseline",
+    "wl": 1,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "baseline",
+    "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "baseline",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "baseline",
+    "wl": 4,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "baseline",
+    "wl": 5,
+    "k": 28,
+    "answered": 28,
+    "correct": 19,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "baseline",
+    "wl": 6,
+    "k": 28,
+    "answered": 28,
+    "correct": 22,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "baseline",
+    "wl": 7,
+    "k": 28,
+    "answered": 28,
+    "correct": 23,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 0,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 1,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 23,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 4,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 5,
+    "k": 28,
+    "answered": 28,
+    "correct": 20,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 6,
+    "k": 28,
+    "answered": 28,
+    "correct": 22,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "gpt-4o-mini",
+    "cond": "protocol",
+    "wl": 7,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 0,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 1,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 4,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 5,
+    "k": 28,
+    "answered": 28,
+    "correct": 22,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 6,
+    "k": 28,
+    "answered": 28,
+    "correct": 24,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "baseline",
+    "wl": 7,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 0,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 1,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 2,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 3,
+    "k": 28,
+    "answered": 28,
+    "correct": 26,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 4,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 5,
+    "k": 28,
+    "answered": 28,
+    "correct": 23,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 6,
+    "k": 28,
+    "answered": 28,
+    "correct": 25,
+    "omitted": 0,
+    "self": 28
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "cond": "protocol",
+    "wl": 7,
+    "k": 28,
+    "answered": 28,
+    "correct": 27,
+    "omitted": 0,
+    "self": 28
+  }
+]
